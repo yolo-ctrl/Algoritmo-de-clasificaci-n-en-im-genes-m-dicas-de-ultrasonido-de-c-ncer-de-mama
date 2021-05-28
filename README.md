@@ -1,1 +1,0 @@
-# Algoritmo-de-clasificaci-n-en-im-genes-m-dicas-de-ultrasonido-de-c-ncer-de-mama
